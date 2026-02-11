@@ -1,0 +1,15 @@
+<!doctype html>
+<head>
+  <style>
+    a {
+      color: blue;
+      text-decoration: underline;
+    }
+  </style>
+  <script>
+    window.addEventListener("message", (ev) => {
+      document.body.innerHTML += "<p>" + ev.data + "</p>";
+    });
+  </script>
+</head>
+<body></body>
