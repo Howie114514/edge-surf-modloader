@@ -2,6 +2,9 @@
 
 Extract the Edge Surf minigame so it can run in **any** browser, with support for custom mods and a modding API!
 
+[![Static Badge](https://img.shields.io/badge/preview-online-green)](https://howie114514.github.io/edge-surf-modloader)
+
+
 ## Features
 
 ##### Core Features

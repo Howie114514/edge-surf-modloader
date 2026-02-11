@@ -2,6 +2,8 @@
 
 提取edge冲浪小游戏，使其能在**任意**浏览器上运行，并提供自定义模组功能及模组API！
 
+[![Static Badge](https://img.shields.io/badge/在线-预览!-green)](https://howie114514.github.io/edge-surf-modloader)
+
 ## 功能
 
 ##### 基础
